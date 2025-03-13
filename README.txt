@@ -27,29 +27,29 @@ Follow in-game prompts to enter your name and place bets.
 File Structure
 PygameCasino/
 │
-├── game_menu.py              # Main menu script
-├── game_assets/              # Shared assets (fonts, player data, card deck logic)
+├── game_menu.py           
+├── game_assets/             
 │   ├── gnu.ttf
 │   ├── player.py
 │   └── card_deck.py
-├── blackjack/                # Blackjack game
+├── blackjack/           
 │   ├── blackjack_game.py
 │   └── graphics/
 │       ├── Blackjack_Background.png
 │       └── Pause_Background.png
-├── higher_or_lower/          # Higher or Lower game
+├── higher_or_lower/         
 │   ├── hilo_game.py
 │   └── graphics/
 │       ├── Hilo_Background.png
 │       └── Pause_Background.png
-├── lucky_wheel/              # Lucky Wheel game
+├── lucky_wheel/           
 │   ├── wheel_game.py
 │   └── graphics/
 │       ├── wheel.png
 │       ├── lucky_wheel_background.png
 │       ├── lw_pause_background.png
 │       └── lw_background.png
-├── slot_machine/             # Slot Machine game
+├── slot_machine/           
 │   ├── slot_machine_game.py
 │   └── graphics/
 │       ├── grid_white_bg.png
@@ -66,7 +66,7 @@ PygameCasino/
 │           ├── tiger.png
 │           ├── tree.png
 │           └── turtle.png
-└── README.md                 # This file
+└── README.md           
 
 Notes
 Ensure all game scripts and assets are in the correct directories as shown above.
