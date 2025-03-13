@@ -82,3 +82,4 @@ This project is unlicensed and provided as-is for educational or personal use.
 Credits
 
 Daniel Legg, Ethan Harper, James Devlin, Charles Gibson-May, Samuel Nnamdi
+(Created as a team for Foundation Year Assignement for the module "Development Project")
