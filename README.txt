@@ -23,8 +23,8 @@ Usage
 Run the main menu: python game_menu.py
 Click a game title to launch it, or click "EXIT" to close the menu.
 Follow in-game prompts to enter your name and place bets.
-File Structure
 
+File Structure
 PygameCasino/
 │
 ├── game_menu.py              # Main menu script
@@ -71,7 +71,7 @@ PygameCasino/
 Notes
 Ensure all game scripts and assets are in the correct directories as shown above.
 Player balances are saved in game_assets/save_file.txt (created automatically).
-Games rely on player.py and card_deck.py for shared functionality (used by Blackjack and Higher or Lower).
+Games rely on player.py and card_deck.py for shared functionality
 
 Contributing
 Feel free to fork this repository and submit pull requests with improvements or bug fixes. Issues can be reported via GitHub Issues.
