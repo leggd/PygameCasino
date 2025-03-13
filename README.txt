@@ -83,3 +83,5 @@ Credits
 
 Daniel Legg, Ethan Harper, James Devlin, Charles Gibson-May, Samuel Nnamdi
 (Created as a team for Foundation Year Assignement for the module "Development Project")
+
+I created 100% of the logic for card_deck.py, player.py, blackjack_game.py, hilo_game.py, wheel_game.py, slot_machine_game.py with little engagement from other team members
