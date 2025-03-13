@@ -1,4 +1,5 @@
-A simple casino-style game suite built with Python and Pygame, featuring a main menu and four games: Blackjack, Higher or Lower, Lucky Wheel, and Slot Machine. Each game includes betting mechanics, player balance tracking, and interactive graphical interfaces.
+A simple casino-style game suite built with Python and Pygame, featuring a main menu and four games:
+Blackjack, Higher or Lower, Lucky Wheel, and Slot Machine. Each game includes betting mechanics, player balance tracking, and interactive graphical interfaces.
 
 Overview
 Game Menu: Launch any of the four games from a central menu.
